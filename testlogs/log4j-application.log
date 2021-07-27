@@ -1,0 +1,33 @@
+2021-07-27 21:33:33 INFO  Log4j:10 - Test is Starting...
+2021-07-27 21:33:36 INFO  Log4j:20 - Opening Page : https://www.amazon.com/
+2021-07-27 21:33:37 INFO  Log4j:20 - Hower over to the Sign In Menu
+2021-07-27 21:33:40 INFO  Log4j:20 - Waiting for loading of page
+2021-07-27 21:33:44 INFO  Log4j:20 - Sign In button is Clicked
+2021-07-27 21:33:44 INFO  Log4j:20 - Email Entered.
+2021-07-27 21:33:45 INFO  Log4j:20 - Continue button Clicked
+2021-07-27 21:33:45 INFO  Log4j:20 - Password TextBox cleared.
+2021-07-27 21:33:45 INFO  Log4j:20 - Password Entered.
+2021-07-27 21:33:45 INFO  Log4j:20 - Sign In button is Clicked
+2021-07-27 21:33:50 INFO  Log4j:20 - Search term typed to the textbox
+2021-07-27 21:33:50 INFO  Log4j:20 - Search term taken from the search textbox.
+2021-07-27 21:33:50 INFO  Log4j:20 - Product details taken from Website to products txt file.
+2021-07-27 21:33:50 INFO  Log4j:20 - Waiting for loading of page
+2021-07-27 21:33:54 INFO  Log4j:20 - Clicked the search button
+2021-07-27 21:33:56 INFO  Log4j:20 - Waiting for loading of page
+2021-07-27 21:34:03 INFO  Log4j:20 - Clicked the first product
+2021-07-27 21:34:04 INFO  Log4j:20 - Product Name added to the products txt file.
+2021-07-27 21:34:08 INFO  Log4j:20 - Product added to cart.
+2021-07-27 21:34:11 INFO  Log4j:20 - Cart button is clicked.
+2021-07-27 21:34:15 INFO  Log4j:20 - Waiting for loading of page
+2021-07-27 21:34:15 INFO  Log4j:20 - Product Name added to the products txt file.
+2021-07-27 21:34:15 INFO  Log4j:20 - Product Value added to the products txt file.
+2021-07-27 21:34:15 INFO  Log4j:20 - Product Quantity added to the products txt file.
+2021-07-27 21:34:15 INFO  Log4j:20 - Product Total Value added to the products txt file.
+2021-07-27 21:34:15 INFO  Log4j:20 - Counts of Product added to the products txt file.
+2021-07-27 21:34:16 INFO  Log4j:20 - Navigate back to the homePage 
+2021-07-27 21:34:20 INFO  Log4j:20 - Proceed to the checkout page
+2021-07-27 21:34:22 INFO  Log4j:20 - Adress entered to the system.
+2021-07-27 21:34:22 INFO  Log4j:20 - Product Value added to the products txt file.
+2021-07-27 21:34:22 INFO  Log4j:20 - Product Value added to the products txt file.
+2021-07-27 21:34:22 INFO  Log4j:20 - Product Quantity added to the products txt file.
+2021-07-27 21:34:22 INFO  Log4j:20 - Product Value added to the products txt file.

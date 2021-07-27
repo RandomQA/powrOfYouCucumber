@@ -1,0 +1,6 @@
+.idea
+/debug.log/
+/target/
+runners
+debug.log
+*.csv
